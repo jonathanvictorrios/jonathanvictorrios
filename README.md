@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hola
 
-<!--
-**jonathanvictorrios/jonathanvictorrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Soy Jonathan Rios , de Neuquen Argentina , soy tecnico en desarrollo web_
 
-Here are some ideas to get you started:
+## Experiencia 📄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
--->
+Programador web en **Petrel** (*proyecto universitario de la tecnicatura para certificacion de programas aprobados mas faciles y mas rapidos*)
+* Desarrollo Backend
+* Framework: Laravel.
+
+Programador Fullstack en **Tracesys** (*trabajo final de la tecnicatura sobre trazabilidad de productos para una empresa de reparación*)
+* Desarrollo Backend y FrontEnd
+* Framework: CakePhp y VueJs
