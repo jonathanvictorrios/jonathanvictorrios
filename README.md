@@ -1,6 +1,6 @@
 ## Hola
 
-_Soy Jonathan Rios , de Neuquen Argentina , soy tecnico en desarrollo web_
+_Soy Jonathan Rios , de Neuquen Argentina , soy técnico en desarrollo web_
 
 ## Experiencia 📄
 
