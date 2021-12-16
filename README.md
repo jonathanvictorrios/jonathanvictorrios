@@ -11,4 +11,5 @@ Programador web en **Petrel** (*proyecto universitario de la tecnicatura para ce
 Programador Fullstack en **Tracesys** (*trabajo final de la tecnicatura sobre trazabilidad de productos para una empresa de reparación*)
 * Desarrollo Backend y FrontEnd
 * Framework: CakePhp y VueJs
-* Apis: Whatsapp y ]Api de sinonimos
+* Apis: Whatsapp y Api de sinonimos
+* Experiencia con Jira , Miro , Patron MVC
